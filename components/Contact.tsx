@@ -27,8 +27,8 @@ export default function Contact({}: Props) {
 
         <div className='flex flex-col space-y-10'> 
            <h4 className='text-4xl font-semibold text-center pt-40'>
-           I have got just what you need.{" "}
-           <span className='decoration-[#a73333]/50 underline'>Let's Connect.</span>
+           Let us{" "}
+           <span className='decoration-[#a73333]/50 underline'>Connect</span>
            </h4> 
 
         <div className=''>
@@ -64,4 +64,4 @@ export default function Contact({}: Props) {
         </div>
     </div>
   )
-}
+};
