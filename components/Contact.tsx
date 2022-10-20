@@ -34,7 +34,7 @@ export default function Contact({}: Props) {
         <div className=''>
             <div className='flex items-center space-x-5 justify-center'>
             <PhoneIcon className='text-[#a73333] h-7 w-7 animate-pulse'/>
-            <p className='text-semibold'>8638977570</p>
+            <p className='text-semibold'>86xxxxxxxx</p>
             </div>
 
             <div className='flex items-center space-x-5 justify-center'>
